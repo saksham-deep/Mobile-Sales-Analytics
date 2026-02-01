@@ -92,4 +92,5 @@ The seller lacks a centralized view to:
 
 ### 6️⃣ Screenshots / Demo
 
-📷 ![Dashboard Preview](https://github.com/saksham-deep/Mobile-Sales-Analytics/blob/main/Snapshot%20of%20the%20Dashboard.png)
+📷 *Dashboard Preview:*
+![Dashboard](https://github.com/saksham-deep/Mobile-Sales-Analytics/blob/main/Snapshot%20of%20the%20Dashboard.png)
