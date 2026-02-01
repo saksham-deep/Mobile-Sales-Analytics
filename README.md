@@ -101,4 +101,4 @@ The seller lacks a centralized view to:
 ### 6️⃣ Screenshots / Demo
 
 📷 *Dashboard Preview:*  
-(Add screenshots of your Power BI dashboard here)
+[Dashboard](https://github.com/saksham-deep/Mobile-Sales-Analytics/blob/main/Snapshot%20of%20the%20Dashboard.png)
